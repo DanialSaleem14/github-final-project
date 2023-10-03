@@ -8,7 +8,7 @@
    # Additional Authors:
    # <your GitHub username>
    
-   #DanialSaleem14
+   #<DanialSaleem14>
    
    # Input:
    # p, principal amount
